@@ -2,5 +2,5 @@
 
 This repository contains my resume for the placement process.
 
-📄 [Download Resume (PDF)](https://github.com/tejashviraj19/Resume/blob/main/TEJASHVI_RAJ_resume.pdf)
+📄 [Download Resume (PDF)](https://github.com/tejashviraj19/Resume/blob/main/ResumeTejashviRaj.pdf)
 )
